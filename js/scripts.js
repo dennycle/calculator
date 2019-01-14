@@ -53,3 +53,26 @@
 // var textresult = "The conversion is " + result.toFixed() + "C.";
 //
 // alert(textresult);
+
+// ### Tablespoons to Teaspoons ###
+// var convertspoon = function(number1) {
+// 	return number1 / 3;
+//   }
+//
+// var number1 = parseInt(prompt("Enter the number of tablespoons you have: "));
+//
+// var result = convertspoon(number1);
+// var textresult = "You have " + result.toFixed() + " teaspoons.";
+//
+// alert(textresult);
+
+// ### Ounces to Cups ###
+// var convertOunceCups = function(number1) {
+// return number1 * .125;
+// };
+//
+// var number1 = parseInt(prompt("Enter the number of ounces you have: "));
+//
+// var result = convertOunceCups(number1);
+// var textresult = "You have " + result + " cups.";
+// alert(textresult)
